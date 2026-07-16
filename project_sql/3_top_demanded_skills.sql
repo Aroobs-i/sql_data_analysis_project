@@ -16,4 +16,4 @@ WHERE
 GROUP BY
     skills
 ORDER BY
-    demand_count DESC        
+    demand_count DESC;  
